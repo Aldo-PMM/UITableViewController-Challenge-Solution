@@ -1,5 +1,5 @@
 //
-//  PMMViewController.h
+//  PMMTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Aldo Jimenez on 9/17/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface PMMViewController : UIViewController
+@interface PMMTableViewController : UITableViewController
 
 @end
